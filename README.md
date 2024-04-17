@@ -1,17 +1,13 @@
-<h1 align="center">Hey! I'm Kar</h1>
-<h3 align="center">Advocate armed with data</h3>
+<h1 align="center">Hello I'm Kar...</h1>
+<h3 align="center">An advocate armed with data</h3>
 
 <p align="center">
   <img src="https://github.com/KarMarsten/KarMarsten/assets/161634208/f9b2f963-c8dd-49fc-a3b3-533806458f8a">
 </p>
 
 
-I’m currently working on [the Future of Autism](https://www.kaggle.com/code/karenlynnmarsten/the-future-of-autism-volume-1). Volume-2 is in progress...there will likely be many many more volumes.  This has required that I dive into big data, swim through R and Tableau and reawaken Python and SQL.  It will continue to be a journey and I am all in.
+I’m currently working on [the Future of Autism Volume-1](https://www.kaggle.com/code/karenlynnmarsten/the-future-of-autism-volume-1). Volume-2 is in progress...there will likely be many many more volumes.  This has required that I dive into big data, swim through R and Tableau, and reawaken Python and SQL skills.  It will continue to be a journey and I am all in.
 
-For a CV, please see LinkedIn - this is specifically for my "the Future of Autism" project.
-
-
-**Note:**
 I regularly write articles on (and talk about) Autism and Special Needs data.  You will see this a LOT.
 
 <p align="center">
@@ -20,6 +16,9 @@ I regularly write articles on (and talk about) Autism and Special Needs data.  Y
 
 
 I can be reached here: **klmarsten@gmail.com**
+
+**Note:** </p>
+*For a CV, please see LinkedIn - this is specifically for my "the Future of Autism" project.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
