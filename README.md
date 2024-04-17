@@ -1,12 +1,16 @@
 <h1 align="center">Hey! I'm Kar</h1>
-<h3  align="center">(pronounced "care")</h1>
+<h3  align="center">(pronounced "care")</h>
+
+![image](https://github.com/KarMarsten/KarMarsten/assets/161634208/f9b2f963-c8dd-49fc-a3b3-533806458f8a)
+
+
 <h3 align="center">Creator of many dashboards</h3>
 
-![image](https://github.com/KarMarsten/KarMarsten/assets/161634208/698f1649-c452-43de-8088-7653002c78f5)
+
 
 🔭 I’m currently working on [the Future of Autism](https://www.kaggle.com/code/karenlynnmarsten/the-future-of-autism-volume-1). Volume-2 is in progress...there will likely be many many more volumes.
 
-🌱 I’m currently learning **R, Python and how to be a good human.**
+🌱 I’m swimming in **R, Python and how to be a good human.**
 
 📝 I regularly write articles on (and talk about) Autism and Special Needs data.  You will see this a LOT.
 ![advocate](https://github.com/KarMarsten/KarMarsten/assets/161634208/50367085-1599-4c07-8042-24a708a98553)
