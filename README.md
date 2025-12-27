@@ -1,36 +1,56 @@
-<h1 align="center">Hello I'm Kar...</h1>
-<h3 align="center">An advocate armed with data</h3>
+# 👋 Hi, I’m Kar
 
-<p align="center">
-  <img src="https://github.com/KarMarsten/KarMarsten/assets/161634208/f9b2f963-c8dd-49fc-a3b3-533806458f8a">
-</p>
+I build dashboards, tools, and a few experimental apps — mostly around **structure, clarity, and neurodivergent-friendly design**. A lot of my work sits at the intersection of data, organization, and lived experience in the ASD community.
 
+I like making things that reduce friction, calm the noise, and make complex stuff easier to work with.
 
-I’m currently working on [the Future of Autism Volume-1](https://www.kaggle.com/code/karenlynnmarsten/the-future-of-autism-volume-1). Volume-2 is in progress...there will likely be many many more volumes.  This has required that I dive into big data, swim through R and Tableau, and reawaken Python and SQL skills.  It will continue to be a journey and I am all in.
+---
 
-I regularly write articles on (and talk about) Autism and Special Needs data.  You will see this a LOT.
+## 🚧 What I’m Working On
 
-<p align="center">
-  <img src="https://github.com/KarMarsten/KarMarsten/assets/161634208/d2b99b7c-faee-4bf5-a525-d4a859a3babd">
-</p>
+### 🎧 VolumeCrisis — exploring our relationship with sound  
+[`VolumeCrisis`](https://github.com/KarMarsten/VolumeCrisis) is an iOS project focused on **friendlier, more intentional sound awareness** — less jump-scare volume, more gentle feedback and visual grounding.
 
+It’s still evolving, but it’s been a really interesting space to explore.
 
-I can be reached here: **klmarsten@gmail.com**
+---
 
-**Note:** </p>
-*For a CV, please see LinkedIn - this is specifically for my "the Future of Autism" project.*
+### 🧰 UseYourTools — job searching with structure (not chaos)  
+[`UseYourTools`](https://github.com/KarMarsten/UseYourTools) is a mobile app for job seekers who want organization without spreadsheets taking over.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/klmarsten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="klmarsten" height="30" width="40" /></a>
-<a href="https://kaggle.com/karenlynnmarsten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karenlynnmarsten" height="30" width="40" /></a>
-</p>
+Built with **React Native + TypeScript + Expo**, it helps with:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- tracking applications & roles  
+- organizing resume versions  
+- seeing progress & reports at a glance  
+- choosing themes that match how your brain works
 
+It started as a tool I needed — and grew from there.
 
-<!---
-KarMarsten/KarMarsten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📊 Future of Autism — data as storytelling & advocacy  
+I also work on my ongoing **Future of Autism** data project, using **R, Python, SQL, and visualization tools** to make autism-related data more approachable and meaningful.
+
+- Kaggle (Volume 1): https://www.kaggle.com/karenlynnmarsten  
+- Supporting code + notebooks: [`autism_project`](https://github.com/KarMarsten/autism_project)
+
+This is where my data work and advocacy overlap.
+
+---
+
+## ✨ A little about how I work
+
+- I like turning messy workflows into calmer systems  
+- I care about accessibility and neurodivergent-friendly design  
+- I build things people can actually *use*, not just look at  
+
+---
+
+## 🤝 Connect with me
+
+- LinkedIn — https://www.linkedin.com/in/klmarsten  
+- Kaggle — https://www.kaggle.com/karenlynnmarsten  
+- Email — **klmarsten@gmail.com**
+
+If you’re working on tools for **neurodiversity, accessibility, data storytelling, or thoughtful productivity**, I’d love to connect.
