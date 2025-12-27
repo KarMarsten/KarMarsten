@@ -6,14 +6,19 @@
 
 </div>
 
+<br>
+<br>
+I like building dashboards, tools, and a few curious little apps — especially around organization, accessibility, and neurodivergent-friendly design. A lot of what I work on comes from real-life experiences in the ASD community and a desire to make technology feel a bit kinder.
 
-I build dashboards, tools, and a few experimental apps — mostly around **structure, clarity, and neurodivergent-friendly design**. A lot of my work sits at the intersection of data, organization, and lived experience in the ASD community.
+I enjoy turning chaos into structure, turning noise into calm, and helping complicated things make a little more sense.
 
-I like making things that reduce friction, calm the noise, and make complex stuff easier to work with.
+<br>
 
 ---
 
-## 🚧 What I’m Working On
+## 🚧 What I’m Working On:
+
+
 
 ### 🎧 VolumeCrisis — exploring our relationship with sound  
 [`VolumeCrisis`](https://github.com/KarMarsten/VolumeCrisis) is an iOS project focused on **friendlier, more intentional sound awareness** — less jump-scare volume, more gentle feedback and visual grounding.
@@ -44,13 +49,17 @@ I also work on my ongoing **Future of Autism** data project, using **R, Python, 
 
 This is where my data work and advocacy overlap.
 
+<br>
+
 ---
 
 ## ✨ A little about how I work
 
 - I like turning messy workflows into calmer systems  
 - I care about accessibility and neurodivergent-friendly design  
-- I build things people can actually *use*, not just look at  
+- I build things people can actually *use*, not just look at
+
+<br>
 
 ---
 
