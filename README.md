@@ -1,4 +1,10 @@
+<div align="center">
+
 # 👋 Hi, I’m Kar
+
+<img width="420" height="420" alt="kar2" src="https://github.com/user-attachments/assets/ba3afc39-be9d-4d69-a087-a8fa156b266b" />
+
+</div>
 
 I build dashboards, tools, and a few experimental apps — mostly around **structure, clarity, and neurodivergent-friendly design**. A lot of my work sits at the intersection of data, organization, and lived experience in the ASD community.
 
