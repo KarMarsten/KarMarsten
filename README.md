@@ -6,6 +6,7 @@
 
 </div>
 
+
 I build dashboards, tools, and a few experimental apps — mostly around **structure, clarity, and neurodivergent-friendly design**. A lot of my work sits at the intersection of data, organization, and lived experience in the ASD community.
 
 I like making things that reduce friction, calm the noise, and make complex stuff easier to work with.
